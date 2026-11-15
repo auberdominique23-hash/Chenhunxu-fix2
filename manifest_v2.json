@@ -1,0 +1,54 @@
+{
+  "item": {
+    "id": "979806059446",
+    "restype": "watchface",
+    "name": "晨昏序 － 腕上天文观测表盘",
+    "description": "表盘特点\n\n·极简息屏\n\n·有序的组件排布\n\n·9钟时间段背景自动更换\n\n·独特日光配色\n\n#一次购买多次更新",
+    "preview": [
+      "media/1000019711.png",
+      "media/1000019710.png",
+      "media/1000019709.png",
+      "media/1000019708.png",
+      "media/1000019707.png",
+      "media/1000019706.png",
+      "media/1000019705.png",
+      "media/1000019704.png",
+      "media/1000019703.png",
+      "media/1000019702.png"
+    ],
+    "icon": "media/1000019718.png",
+    "cover": "media/1000013033.png",
+    "author": [
+      {
+        "name": "AuberDominique",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/完整版chenhunxu.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/完整版chenhunxu.bin",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/完整版chenhunxu.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/完整版chenhunxu.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
